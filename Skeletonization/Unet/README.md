@@ -1,5 +1,5 @@
 # 💡 Usage
-First of all, the dataset must be created with a folder structure in which the original images are on one side and the skeleton masks on the other side.
+First of all, the dataset must be created with a folder structure in which the original images are in one directory and the skeleton masks in another.
 - **Dataset**
   - **/images/**
     - *Description:* Directory containing image files.
